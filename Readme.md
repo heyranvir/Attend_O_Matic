@@ -10,3 +10,9 @@ With Attend-O-Matic, insights are not just numbers but stories. Get real-time an
 ## Scalable & Flexible:
 
 From intimate seminars to massive lecture halls, Attend-O-Matic scales with grace. Our flexible architecture means you can deploy it in any setting - virtual, physical, or hybrid - making it a perfect fit for today's dynamic environments.
+
+
+
+##### Ranvir Singh (A00272293)
+##### Arshpreet Kaur (A00271645)
+##### Simranjeet kaur (A00266970)
