@@ -14,5 +14,3 @@ From intimate seminars to massive lecture halls, Attend-O-Matic scales with grac
 
 
 ##### Ranvir Singh (A00272293)
-##### Arshpreet Kaur (A00271645)
-##### Simranjeet kaur (A00266970)
